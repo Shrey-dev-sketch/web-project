@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+      background-color: #363945;
+}
+.card{
+  background-color:  #939597;
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+  margin:70px 150px;
+}
+h1{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+}
+.card-body{
+  font-family: 'Ubuntu-bold';
+}
+.btn{
+  width:5rem;
+height: 2.5rem;
+text-align: center;
+background-color:  #363945;
+}
+.enter-item{
+  text-align: center;
+}
