@@ -1,0 +1,40 @@
+body{
+text-align: center;
+    background-color: #363945;
+}
+h1{
+  font-size: 60px;
+  margin-top: 50px;
+}
+.form{
+  padding%;
+  width: 100px;
+}
+.for{
+  margin-left: 150px;
+
+}
+.tab{
+  padding:2%;
+  align-items: center;
+  width: 500px;
+  text-align: center;
+  border:  200px;
+
+
+}
+.table{
+  padding: 4%;
+}
+footer{
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0.5%;
+}
+.img{
+  width: 2rem;
+}
+
+.vid{
+  padding: 2%;
+}
